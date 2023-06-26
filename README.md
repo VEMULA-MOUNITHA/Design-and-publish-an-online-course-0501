@@ -4,6 +4,11 @@
 # Team Name: The Project Whisperers 
 # Team Logo:
 ![image](https://github.com/VEMULA-MOUNITHA/Design-and-publish-an-online-course-0501/assets/88839594/e3044413-5b4c-431f-badf-60cba9fc9b09)
+
+# Project Scenario:
+In this project, you will create and publish an online course. Starting with researching a course topic in demand, you will then write a comprehensive curriculum for the course. After deciding on the dominant format, such as video or text, you will ensure all technical requirements are met, including purchasing necessary equipment. With a scripted course in hand, you will record and post-produce the content, followed by uploading it to an online platform. To entice potential students, you will create an intriguing course description and trailer. Setting a price for the course, you will then publish it. Once the course is live, you will actively review and respond to feedback, continually improving and promoting the course based on user input. Throughout the project, effective project management will be crucial to ensure a successful online course that sells well.
+
+
 # Project Objectives: 
 The objective of this project is to create and publish a high-quality online course that is in demand and generates significant sales. The course should be thoughtfully planned and executed, with a well-written curriculum, engaging video content, and attention to technical requirements. The course will be promoted and continuously improved based on feedback from learners, aiming for success in the online education market.
 
